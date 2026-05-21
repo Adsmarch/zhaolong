@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://127.0.0.1:8977
+Data file = D:\software\phpstudy_pro\WWW\zhaolong/wp-content/themes/evisa//inc/demo-content/content.xml
+Widget file = D:\software\phpstudy_pro\WWW\zhaolong/wp-content/themes/evisa//inc/demo-content/widgets.wie
+Customizer file = D:\software\phpstudy_pro\WWW\zhaolong/wp-content/themes/evisa//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "location" (媒体)
+[ERROR] Failed to import "sidebar_bg" (媒体)
+

@@ -1,0 +1,35 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://127.0.0.1:8977
+Data file = not defined!
+Widget file = D:\software\phpstudy_pro\WWW\zhaolong/wp-content/uploads/2026/05/widgets-2.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+搜索 - Search - Imported
+Xpress : Recent Posts - Recent Posts - Imported
+分类 - Categories - Imported
+标签云 - Tags - Imported
+区块 - No Title - Imported
+区块 - No Title - Imported
+
+
+
+---ocdi/after_import---
+

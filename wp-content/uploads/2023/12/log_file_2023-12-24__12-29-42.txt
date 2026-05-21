@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/evisa
+Data file = C:\xampp\htdocs\evisa/wp-content/themes/evisa//inc/demo-content/content.xml
+Widget file = C:\xampp\htdocs\evisa/wp-content/themes/evisa//inc/demo-content/widgets.wie
+Customizer file = C:\xampp\htdocs\evisa/wp-content/themes/evisa//inc/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "post_08" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "xpress-core.zip" (Media)
+[ERROR] Failed to import "evisa.zip" (Media)
+[ERROR] Failed to import "evisa.zip" (Media)
+[ERROR] Failed to import "evisa.zip" (Media)
+[ERROR] Failed to import "evisa.zip" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Xpress : Recent Posts - Recent Posts - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
