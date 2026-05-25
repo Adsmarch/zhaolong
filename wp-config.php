@@ -1,4 +1,6 @@
 <?php
+define( 'WP_CACHE', true ); // Added by WP Rocket
+
 /**
  * The base configuration for WordPress
  *
@@ -18,7 +20,8 @@
  * @package WordPress
  */
 
-set_time_limit(600);
+set_time_limit(0);
+
 define('WP_MEMORY_LIMIT', '512M');
 
 // ** Database settings - You can get this info from your web host ** //
